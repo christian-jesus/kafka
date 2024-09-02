@@ -8,7 +8,7 @@ Este proyecto es un ejemplo básico de cómo usar Kafka con PySpark en Python, u
 - Python 3.x instalado.
 - Librerías Python: kafka-python, pyspark.
 
-Instalación de librerías:
+## Instalación de Librerías
 
 ```bash
 pip install kafka-python pyspark
